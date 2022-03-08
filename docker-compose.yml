@@ -2,4 +2,4 @@
   codeserver: 
    build: . 
    ports: 
-       - "80:6080"
+       - "80:5900"
