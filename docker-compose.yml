@@ -1,5 +1,5 @@
-  services:
- codeserver: 
- build: . 
- ports: 
+ services:
+  codeserver: 
+   build: . 
+   ports: 
        - "80:80"
