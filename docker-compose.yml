@@ -1,0 +1,4 @@
+services: 
+  codeserver: 
+     build: . 
+     ports: - "80:80"
