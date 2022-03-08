@@ -2,4 +2,4 @@
  services:
  codeserver: 
  build: . 
- ports: - "80:8080"
+ ports: - "80:80"
